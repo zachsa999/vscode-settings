@@ -1,5 +1,0 @@
-2022-09-21 12:47:27.569 -05:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
-2022-09-21 12:47:28.145 -05:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
-2022-09-21 12:47:29.691 -05:00 [INF] Unable to find PSSA settings file at 'c:\Users\Zach\Documents\projects\invoicing\PSScriptAnalyzerSettings.psd1'. Loading default rules.
-2022-09-21 12:47:29.693 -05:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
-2022-09-21 12:51:19.691 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected attribute 'Parameter'.

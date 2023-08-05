@@ -1,6 +1,0 @@
-2022-10-11 3:24:05 p.m. [NORMAL] -     PowerShell Editor Services args: Import-Module 'c:\Users\Zach\.vscode\extensions\ms-vscode.powershell-2022.8.5\modules\PowerShellEditorServices\PowerShellEditorServices.psd1'; Start-EditorServices -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '2022.8.5' -AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath 'c:\Users\Zach\.vscode\extensions\ms-vscode.powershell-2022.8.5\modules' -EnableConsoleRepl -StartupBanner "PowerShell Extension v2022.8.5
-Copyright (c) Microsoft Corporation.
-
-https://aka.ms/vscode-powershell
-Type 'help' to get help.
-" -LogLevel 'Normal' -LogPath 'c:\Users\Zach\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\logs\1665519844-63026192-7062-43a0-b25f-7792fc30038b1665519841950\EditorServices.log' -SessionDetailsPath 'c:\Users\Zach\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\sessions\PSES-VSCode-24448-767360.json' -FeatureFlags @() 
