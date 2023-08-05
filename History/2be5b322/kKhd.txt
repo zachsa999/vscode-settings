@@ -1,0 +1,48 @@
+[Chad][Arend][Richmond][Pete] Driver Files 
+    [x] Chad
+    [] Arend
+        # once these are all full scan and send
+        [] declaration of Employment
+        [] Safety Plan
+        [x] Road Test
+        [] Log Audits
+    [] Richmond
+        [x] declaration of Employment
+        [x] Safety Plan
+        [] Road Test
+        [x] o/o review
+        [] Log Audits
+    [] Pete Unrau
+        [x] declaration of Employment
+        [x] Safety Plan
+        [x] Road Test
+        [x] Log Audits
+[1][3][4] Truck Maintainence Files
+    [x] 1
+    [x] 3
+    [x] 4
+[1][3][4] Truck Registration Files
+    [x] 1
+        [] Current Safety
+    [x] 3
+        [] Current Safety
+    [x] 4
+        [] Current Safety
+[374-375][377-378][445-446] Trailer Maintainence
+    [x] 374-375
+    [x] 377-378
+    [x] n / a
+[374-375][377-378][445-446] Trailer Registration
+    [x] 374-375
+    [x] 377-378
+    [x] 445-446
+
+
+--Reply to Cecile
+    Chad is driving
+    Arend is Attached
+    Petes Test is Attached
+    Why Get all the drivers to fill out the MPI Request. I thought we only needed an abstract
+    Log Audits are in the driver files.
+    I never recieved any log reviews for the other drivers.
+    Peter was hired within one month of getting his abstract.

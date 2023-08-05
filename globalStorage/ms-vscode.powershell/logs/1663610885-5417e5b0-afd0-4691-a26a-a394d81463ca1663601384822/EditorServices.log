@@ -1,0 +1,7 @@
+2022-09-19 13:08:10.971 -05:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2022-09-19 13:08:11.835 -05:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2022-09-19 13:08:12.686 -05:00 [INF] Unable to find PSSA settings file at 'c:\Users\Zach\Documents\projects\invoicing\PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2022-09-19 13:08:12.691 -05:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
+2022-09-19 13:23:45.677 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2022-09-19 13:23:46.083 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: '.
+2022-09-19 13:23:46.886 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: '.

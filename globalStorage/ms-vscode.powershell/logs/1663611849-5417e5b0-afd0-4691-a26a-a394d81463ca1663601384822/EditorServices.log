@@ -1,0 +1,13 @@
+2022-09-19 13:24:13.342 -05:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2022-09-19 13:24:13.933 -05:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2022-09-19 13:24:14.769 -05:00 [INF] Unable to find PSSA settings file at 'c:\Users\Zach\Documents\projects\invoicing\PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2022-09-19 13:24:14.773 -05:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
+2022-09-19 13:26:17.247 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token 'Move-Item' in expression or statement.
+2022-09-19 13:26:25.460 -05:00 [WRN] Formatting request canceled for: file:///c:/Users/Zach/Documents/projects/invoicing/sortfiles.ps1
+2022-09-19 13:26:40.714 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in method call.
+2022-09-19 13:28:10.508 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '-Destination' in expression or statement.
+2022-09-19 13:28:16.753 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '-Destination' in expression or statement.
+2022-09-19 13:28:22.609 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '-Destination' in expression or statement.
+2022-09-19 13:28:26.983 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '-Destination' in expression or statement.
+2022-09-19 13:29:18.645 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The assignment expression is not valid. The input to an assignment operator must be an object that is able to accept assignments, such as a variable or a property.
+2022-09-19 13:29:21.453 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The assignment expression is not valid. The input to an assignment operator must be an object that is able to accept assignments, such as a variable or a property.

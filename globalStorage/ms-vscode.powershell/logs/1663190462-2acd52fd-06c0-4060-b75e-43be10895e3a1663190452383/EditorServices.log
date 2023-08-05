@@ -1,0 +1,104 @@
+2022-09-14 16:21:07.443 -05:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2022-09-14 16:21:08.541 -05:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2022-09-14 16:21:09.438 -05:00 [INF] Unable to find PSSA settings file at 'c:\Users\Zach\Documents\projects\invoicing\PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2022-09-14 16:21:09.445 -05:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
+2022-09-14 16:25:57.205 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2022-09-14 16:51:54.790 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in method call.
+2022-09-14 16:53:59.461 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing expression after ','.
+2022-09-15 10:22:55.887 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing expression after ','.
+2022-09-15 10:23:37.947 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token 'hi' in expression or statement.
+2022-09-15 10:23:37.947 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2022-09-15 10:23:39.807 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token 'hi' in expression or statement.
+2022-09-15 10:31:40.444 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2022-09-15 10:34:20.146 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in method call.
+2022-09-15 10:34:22.798 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in method call.
+2022-09-15 10:34:23.701 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in method call.
+2022-09-15 10:34:27.110 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2022-09-15 10:34:28.302 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in method call.
+2022-09-15 10:34:28.997 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2022-09-15 10:34:31.247 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2022-09-15 10:34:31.776 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in method call.
+2022-09-15 10:35:19.871 -05:00 [FTL] Failed to handle request textDocument/completion 2312
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Microsoft.PowerShell.EditorServices.Services.Symbols.AstOperations.<GetCompletionsAsync>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.<GetCompletionsInFileAsync>d__15.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.<Handle>d__13.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at OmniSharp.Extensions.LanguageServer.Server.Pipelines.SemanticTokensDeltaPipeline`2.<Handle>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at OmniSharp.Extensions.LanguageServer.Server.Pipelines.ResolveCommandPipeline`2.<Handle>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.<Handle>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.<Handle>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.<Handle>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.<Handle>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.<Handle>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.<Handle>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at OmniSharp.Extensions.JsonRpc.RequestRouterBase`1.<<RouteRequest>g__InnerRoute|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at OmniSharp.Extensions.JsonRpc.RequestRouterBase`1.<RouteRequest>d__7.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at OmniSharp.Extensions.JsonRpc.DefaultRequestInvoker.<>c__DisplayClass10_0.<<RouteRequest>b__5>d.MoveNext()
+2022-09-15 10:41:45.808 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' in expression.
+2022-09-15 10:42:31.158 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '$Text' in expression or statement.
+2022-09-15 10:42:31.159 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' in expression.
+2022-09-15 10:42:33.240 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2022-09-15 10:42:38.869 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '$Text' in expression or statement.
+2022-09-15 10:42:38.869 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' in expression.
+2022-09-15 10:42:39.566 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '$Text' in expression or statement.
+2022-09-15 10:42:40.512 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '$Text' in expression or statement.
+2022-09-15 10:43:31.172 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2022-09-15 10:43:35.806 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2022-09-15 10:43:36.890 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2022-09-15 10:43:47.616 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' in expression.
+2022-09-15 10:44:16.760 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' in expression.
+2022-09-15 10:44:17.410 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' in expression.
+2022-09-15 10:44:47.367 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ':' in expression or statement.
+2022-09-15 10:44:47.367 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' in expression.
+2022-09-15 10:45:24.913 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing property name after reference operator.
+2022-09-15 10:45:31.549 -05:00 [WRN] Formatting request canceled for: file:///c:/Users/Zach/Documents/projects/invoicing/sortfiles.ps1
+2022-09-15 10:45:31.557 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' in expression.
+2022-09-15 10:46:13.027 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' in expression.
+2022-09-15 10:46:31.858 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' in expression.
+2022-09-15 10:48:33.142 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell An expression was expected after '('.
+2022-09-15 10:49:20.622 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '$' in expression or statement.
+2022-09-15 10:49:20.622 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2022-09-15 10:49:28.234 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing expression after ','.
+2022-09-15 10:49:29.776 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '$' in expression or statement.
+2022-09-15 10:49:29.776 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2022-09-15 10:49:31.831 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2022-09-15 10:50:02.264 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell You must provide a value expression following the '+' operator.
+2022-09-15 10:50:03.319 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell You must provide a value expression following the '+=' operator.
+2022-09-15 10:50:07.136 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell You must provide a value expression following the '+' operator.

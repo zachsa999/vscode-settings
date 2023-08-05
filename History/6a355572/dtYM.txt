@@ -1,0 +1,9 @@
+install npm with node v 16+
+
+rtmp://localhost/live/STREAM_NAME
+
+IT WORKS!
+
+Four second delay?
+
+Tested with audio

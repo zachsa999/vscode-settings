@@ -1,0 +1,108 @@
+{
+    "telemetry.machineId": "60e1e0792a5ba390fa9744f5d77f9981cc4cff22d15241bc1cdbf8dca429fcd5",
+    "theme": "vs-dark",
+    "themeBackground": "#2d2a2e",
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "C:\\Users\\Zach\\AppData\\Roaming\\Code\\Backups\\1684421566194",
+            "remoteAuthority": "wsl+Ubuntu",
+            "uiState": {
+                "mode": 1,
+                "x": 1282,
+                "y": 6,
+                "width": 1272,
+                "height": 1428
+            }
+        },
+        "openedWindows": []
+    },
+    "pickerWorkingDir": "C:\\Users\\Zach\\projects",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#fcfcfa",
+            "background": "#2d2a2e",
+            "editorBackground": "#2d2a2e",
+            "titleBarBackground": "#221f22",
+            "activityBarBackground": "#19181a",
+            "sideBarBackground": "#221f22",
+            "statusBarBackground": "#221f22",
+            "statusBarNoFolderBackground": "#221f22"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowControlHeight": 35,
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "vscode-remote://wsl%2Bubuntu/home/zachsa999/f4f-site",
+                "remoteAuthority": "wsl+ubuntu"
+            },
+            {
+                "folderUri": "file:///c%3A/Users/Zach/Documents/projects/streamLocal"
+            },
+            {
+                "folderUri": "vscode-remote://wsl%2Bubuntu/home/zachsa999/oocalc",
+                "remoteAuthority": "wsl+ubuntu"
+            },
+            {
+                "folderUri": "file:///c%3A/Users/Zach/.kenv"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1684421566194",
+                "remoteAuthority": "wsl+Ubuntu"
+            }
+        ]
+    },
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/supabase-js-node": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/supabase-js": "__default__profile__",
+            "file:///c%3A/Users/Zach/.kenv": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/sl": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/deno-mailgun": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/node-red": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/.node-red": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/rmgh-netlifyCMS-svelte": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/zachwca-v2": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/zachwca": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/pipedream": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/the-algorithm": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/blur": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/sawled-construction": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/Sawled-construction": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/telegram-chatgpt-concierge-bot": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/my-skeleton-app": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/zarvis": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/Auto-GPT": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/js": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/telegram-chatgpt-concierge-bot": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/zw-ui": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/denver-guest-home": "__default__profile__",
+            "file:///c%3A/Users/Zach/Documents/projects/invoicing": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/sawled-v2": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/dmgh": "__default__profile__",
+            "vscode-remote://wsl%2Bubuntu/home/zachsa999/projects/f4f_admin": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1684421217646": "__default__profile__",
+            "1684421566194": "__default__profile__"
+        }
+    },
+    "profileAssociationsMigration": true,
+    "window.experimental.useSandbox": true
+}
