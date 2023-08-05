@@ -1,0 +1,5 @@
+KIT=C:\Users\Zach\.kit
+KENV=C:\Users\Zach\.kenv
+KNODE=C:\Users\Zach\.knode
+KIT_TEMPLATE=default
+KIT_EDITOR="C:\Users\Zach\AppData\Local\Programs\Microsoft VS Code\Code.exe"

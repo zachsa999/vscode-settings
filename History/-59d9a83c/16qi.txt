@@ -1,0 +1,18 @@
+[x] Richmond Abstract
+[x] Pete review
+
+[x] 374-375 - Missing safeties
+[x] 377-376 - Missing safeties
+[] unit 1 - Missing safeties
+[] unit 3 - Missing safeties
+[x] unit 4 - Missing safeties
+
+[x] Arend    
+    [x] Abstract
+    [x] record search
+    [x] Road Test
+    [x] violations
+    [x] abstract Request
+    [x] abstract 
+    [x] license
+    [x] Safety Plan

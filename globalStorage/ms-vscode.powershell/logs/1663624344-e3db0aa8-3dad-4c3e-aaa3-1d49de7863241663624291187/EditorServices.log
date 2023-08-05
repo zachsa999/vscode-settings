@@ -1,0 +1,42 @@
+2022-09-19 16:52:28.229 -05:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2022-09-19 16:52:28.869 -05:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2022-09-19 16:52:29.746 -05:00 [INF] Unable to find PSSA settings file at 'c:\Users\Zach\Documents\projects\invoicing\PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2022-09-19 16:52:29.748 -05:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
+2022-09-19 17:28:19.492 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2022-09-19 17:34:19.722 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token 'Contains' in expression or statement.
+2022-09-19 17:34:19.723 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' after expression in 'if' statement.
+2022-09-19 17:34:20.347 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token 'Contains' in expression or statement.
+2022-09-19 17:34:20.347 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' after expression in 'if' statement.
+2022-09-19 17:34:21.186 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token 'Contains' in expression or statement.
+2022-09-19 17:34:21.187 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' after expression in 'if' statement.
+2022-09-19 17:34:21.455 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in method call.
+2022-09-19 17:34:21.456 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '.Contains' in expression or statement.
+2022-09-19 17:34:21.456 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' after expression in 'if' statement.
+2022-09-19 17:34:22.561 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '.Contains' in expression or statement.
+2022-09-19 17:34:22.561 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' after expression in 'if' statement.
+2022-09-19 17:34:22.819 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '0.Contains' in expression or statement.
+2022-09-19 17:34:22.820 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' after expression in 'if' statement.
+2022-09-19 17:34:23.200 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in method call.
+2022-09-19 17:34:23.200 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '0.Contains' in expression or statement.
+2022-09-19 17:34:23.200 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' after expression in 'if' statement.
+2022-09-19 17:34:23.967 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '0.Contains' in expression or statement.
+2022-09-19 17:34:23.967 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' after expression in 'if' statement.
+2022-09-19 17:45:32.799 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' in expression.
+2022-09-19 17:45:54.182 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2022-09-19 17:49:05.114 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2022-09-19 17:49:06.226 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2022-09-19 17:56:07.799 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing '}' in statement block or type definition.
+2022-09-19 17:56:10.095 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing '}' in statement block or type definition.
+2022-09-19 17:56:17.275 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing '}' in statement block or type definition.
+2022-09-19 17:56:20.579 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2022-09-19 17:56:20.579 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2022-09-19 17:58:28.028 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: '.
+2022-09-19 17:58:29.040 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: '.
+2022-09-19 17:58:30.464 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: '.
+2022-09-19 18:07:33.149 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '_subject' in expression or statement.
+2022-09-19 18:09:14.364 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell You must provide a value expression following the '..' operator.
+2022-09-19 18:09:14.364 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token 'IndexOf' in expression or statement.
+2022-09-19 18:09:14.707 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token 'IndexOf' in expression or statement.
+2022-09-19 18:09:15.489 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token 'IndexOf' in expression or statement.
+2022-09-19 18:09:17.158 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '.IndexOf' in expression or statement.
+2022-09-19 18:15:23.326 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell You must provide a value expression following the '-' operator.

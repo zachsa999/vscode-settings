@@ -1,0 +1,15 @@
+2023-01-23 09:50:27.771 -06:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2023-01-23 09:50:28.915 -06:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2023-01-23 09:50:29.755 -06:00 [INF] Unable to find PSSA settings file at 'c:\Users\Zach\Documents\projects\invoicing\PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2023-01-23 09:50:29.758 -06:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
+2023-01-23 10:52:45.700 -06:00 [FTL] unhandled exception
+OmniSharp.Extensions.JsonRpc.InputProcessingException: There was an error processing input the contents of the buffer were ''
+ ---> System.InvalidOperationException: Reading is not allowed after reader was completed.
+   at System.IO.Pipelines.ThrowHelper.ThrowInvalidOperationException_NoReadingAllowed()
+   at System.IO.Pipelines.Pipe.AdvanceReader(SequencePosition& consumed, SequencePosition& examined)
+   at System.IO.Pipelines.Pipe.DefaultPipeReader.AdvanceTo(SequencePosition consumed, SequencePosition examined)
+   at OmniSharp.Extensions.JsonRpc.InputHandler.ProcessInputStream(CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at OmniSharp.Extensions.JsonRpc.InputHandler.ProcessInputStream(CancellationToken cancellationToken)
+   at OmniSharp.Extensions.JsonRpc.InputHandler.ProcessInputStream(CancellationToken cancellationToken)
+   at OmniSharp.Extensions.JsonRpc.InputHandler.<Start>b__26_0()

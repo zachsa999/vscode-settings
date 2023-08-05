@@ -1,0 +1,23 @@
+2022-09-20 11:48:31.396 -05:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2022-09-20 11:48:32.049 -05:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2022-09-20 11:48:32.905 -05:00 [INF] Unable to find PSSA settings file at 'c:\Users\Zach\Documents\projects\invoicing\PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2022-09-20 11:48:32.908 -05:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
+2022-09-20 12:05:14.533 -05:00 [FTL] Failed to handle request textDocument/completion 215
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Microsoft.PowerShell.EditorServices.Services.Symbols.AstOperations.GetCompletionsAsync(Ast scriptAst, Token[] currentTokens, Int32 fileOffset, IInternalPowerShellExecutionService executionService, ILogger logger, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\Symbols\Vistors\AstOperations.cs:line 130
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.GetCompletionsInFileAsync(ScriptFile scriptFile, Int32 lineNumber, Int32 columnNumber, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 196
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.Handle(CompletionParams request, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 72
+   at OmniSharp.Extensions.LanguageServer.Server.Pipelines.SemanticTokensDeltaPipeline`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at OmniSharp.Extensions.LanguageServer.Server.Pipelines.ResolveCommandPipeline`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at OmniSharp.Extensions.JsonRpc.RequestRouterBase`1.<RouteRequest>g__InnerRoute|7_0(IServiceScopeFactory serviceScopeFactory, Request request, TDescriptor descriptor, Object params, CancellationToken token, ILogger logger)
+   at OmniSharp.Extensions.JsonRpc.RequestRouterBase`1.RouteRequest(IRequestDescriptor`1 descriptors, Request request, CancellationToken token)
+   at OmniSharp.Extensions.JsonRpc.DefaultRequestInvoker.<>c__DisplayClass10_0.<<RouteRequest>b__5>d.MoveNext()
+2022-09-20 12:28:53.052 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2022-09-20 12:28:53.878 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2022-09-20 12:28:53.878 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.

@@ -1,0 +1,27 @@
+2022-12-26 11:45:04 a.m. [NORMAL] - Visual Studio Code v1.74.2 64-bit
+2022-12-26 11:45:04 a.m. [NORMAL] - Language server starting --
+2022-12-26 11:45:04 a.m. [NORMAL] -     PowerShell executable: C:\Program Files\PowerShell\7\pwsh.exe
+2022-12-26 11:45:04 a.m. [NORMAL] - PowerShell Extension v2022.12.1
+2022-12-26 11:45:04 a.m. [NORMAL] -     PowerShell args: -NoProfile -ExecutionPolicy Bypass -Command Import-Module 'c:\Users\Zach\.vscode\extensions\ms-vscode.powershell-2022.12.1\modules\PowerShellEditorServices\PowerShellEditorServices.psd1'; Start-EditorServices -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '2022.12.1' -AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath 'c:\Users\Zach\.vscode\extensions\ms-vscode.powershell-2022.12.1\modules' -EnableConsoleRepl -StartupBanner "PowerShell Extension v2022.12.1
+Copyright (c) Microsoft Corporation.
+
+https://aka.ms/vscode-powershell
+Type 'help' to get help.
+" -LogLevel 'Normal' -LogPath 'c:\Users\Zach\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\logs\1672076703-4e614382-7bde-499e-b6b8-f03f2582e9111672076695462\EditorServices.log' -SessionDetailsPath 'c:\Users\Zach\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\sessions\PSES-VSCode-22644-958340.json' -FeatureFlags @() 
+2022-12-26 11:45:04 a.m. [NORMAL] - Operating System: Windows 64-bit
+2022-12-26 11:45:04 a.m. [NORMAL] -     PowerShell Editor Services args: Import-Module 'c:\Users\Zach\.vscode\extensions\ms-vscode.powershell-2022.12.1\modules\PowerShellEditorServices\PowerShellEditorServices.psd1'; Start-EditorServices -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '2022.12.1' -AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath 'c:\Users\Zach\.vscode\extensions\ms-vscode.powershell-2022.12.1\modules' -EnableConsoleRepl -StartupBanner "PowerShell Extension v2022.12.1
+Copyright (c) Microsoft Corporation.
+
+https://aka.ms/vscode-powershell
+Type 'help' to get help.
+" -LogLevel 'Normal' -LogPath 'c:\Users\Zach\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\logs\1672076703-4e614382-7bde-499e-b6b8-f03f2582e9111672076695462\EditorServices.log' -SessionDetailsPath 'c:\Users\Zach\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\sessions\PSES-VSCode-22644-958340.json' -FeatureFlags @() 
+2022-12-26 11:45:04 a.m. [NORMAL] - pwsh.exe started.
+2022-12-26 11:45:04 a.m. [NORMAL] - Waiting for session file...
+2022-12-26 11:45:08 a.m. [NORMAL] - Session file found!
+2022-12-26 11:45:08 a.m. [NORMAL] - pwsh.exe PID: 13436
+2022-12-26 11:45:08 a.m. [NORMAL] - Language server started.
+2022-12-26 11:45:08 a.m. [NORMAL] - Connecting to language service on pipe: \\.\pipe\PSES_qmkyrzay.120
+2022-12-26 11:45:08 a.m. [NORMAL] - Session details: {"status":"started","languageServiceTransport":"NamedPipe","languageServicePipeName":"\\\\.\\pipe\\PSES_qmkyrzay.120","debugServiceTransport":"NamedPipe","debugServicePipeName":"\\\\.\\pipe\\PSES_equ1xw3f.kfx"}
+2022-12-26 11:45:08 a.m. [NORMAL] - Language service socket connected.
+2022-12-26 11:46:25 a.m. [NORMAL] - powershell.exe terminated or terminal UI was closed
+2022-12-26 11:46:25 a.m. [ERROR] - The PowerShell Extension Terminal has stopped, would you like to restart it? IntelliSense and other features will not work without it!

@@ -1,0 +1,18 @@
+[
+    {
+        "key": "ctrl+win+down",
+        "command": "editor.emmet.action.decrementNumberByOne"
+    },
+    {
+        "key": "ctrl+shift+win+down",
+        "command": "editor.emmet.action.decrementNumberByTen"
+    },
+    {
+        "key": "ctrl+win+up",
+        "command": "editor.emmet.action.incrementNumberByOne"
+    },
+    {
+        "key": "ctrl+shift+win+up",
+        "command": "editor.emmet.action.incrementNumberByTen"
+    }
+]

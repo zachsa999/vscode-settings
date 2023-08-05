@@ -1,0 +1,15 @@
+2022-09-21 14:54:32.111 -05:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2022-09-21 14:54:32.719 -05:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2022-09-21 14:54:33.569 -05:00 [INF] Unable to find PSSA settings file at 'c:\Users\Zach\Documents\projects\invoicing\PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2022-09-21 14:54:33.572 -05:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
+2022-09-21 14:56:02.438 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The assignment expression is not valid. The input to an assignment operator must be an object that is able to accept assignments, such as a variable or a property.
+2022-09-21 14:56:07.585 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2022-09-21 15:12:05.498 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing '(' after 'if' in if statement.
+2022-09-21 15:12:59.328 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing condition in if statement after 'if ('.
+2022-09-21 15:12:59.328 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing statement block after if ( condition ).
+2022-09-21 15:13:02.764 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing statement block after if ( condition ).
+2022-09-21 15:13:03.904 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing statement block after if ( condition ).
+2022-09-21 15:13:04.169 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing statement block after if ( condition ).
+2022-09-21 15:13:06.181 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing statement block after if ( condition ).
+2022-09-21 15:31:57.015 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2022-09-21 15:31:57.808 -05:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.

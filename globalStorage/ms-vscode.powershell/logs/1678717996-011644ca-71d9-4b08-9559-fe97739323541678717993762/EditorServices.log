@@ -1,0 +1,19 @@
+2023-03-13 09:33:25.126 -05:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2023-03-13 09:33:25.855 -05:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2023-03-13 09:33:25.891 -05:00 [ERR] Could not resolve Script Analyzer settings path due to null or empty workspaceRootPath.
+2023-03-13 09:33:26.710 -05:00 [INF] Unable to find PSSA settings file at 'PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2023-03-13 09:33:26.710 -05:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
+2023-03-13 09:34:26.936 -05:00 [FTL] unhandled exception
+OmniSharp.Extensions.JsonRpc.InputProcessingException: There was an error processing input the contents of the buffer were ''
+ ---> System.InvalidOperationException: Reading is not allowed after reader was completed.
+   at System.IO.Pipelines.ThrowHelper.ThrowInvalidOperationException_NoReadingAllowed()
+   at System.IO.Pipelines.Pipe.AdvanceReader(SequencePosition& consumed, SequencePosition& examined)
+   at System.IO.Pipelines.Pipe.DefaultPipeReader.AdvanceTo(SequencePosition consumed, SequencePosition examined)
+   at OmniSharp.Extensions.JsonRpc.InputHandler.ProcessInputStream(CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at OmniSharp.Extensions.JsonRpc.InputHandler.ProcessInputStream(CancellationToken cancellationToken)
+   at OmniSharp.Extensions.JsonRpc.InputHandler.ProcessInputStream(CancellationToken cancellationToken)
+   at OmniSharp.Extensions.JsonRpc.InputHandler.<Start>b__26_0()
+2023-03-13 09:36:21.833 -05:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2023-03-13 09:36:22.653 -05:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2023-03-13 09:36:22.753 -05:00 [ERR] Could not resolve Script Analyzer settings path due to null or empty workspaceRootPath.

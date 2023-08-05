@@ -1,0 +1,5 @@
+2023-05-08 10:54:40.832 -05:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2023-05-08 10:54:42.080 -05:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2023-05-08 10:54:42.138 -05:00 [ERR] Could not resolve Script Analyzer settings path due to null or empty workspaceRootPath.
+2023-05-08 10:54:42.948 -05:00 [INF] Unable to find PSSA settings file at 'PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2023-05-08 10:54:42.948 -05:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules

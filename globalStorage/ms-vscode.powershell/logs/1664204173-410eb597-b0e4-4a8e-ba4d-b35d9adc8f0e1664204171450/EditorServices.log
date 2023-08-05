@@ -1,0 +1,12 @@
+2022-09-26 09:56:17.070 -05:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2022-09-26 09:56:17.556 -05:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2022-09-26 09:56:17.626 -05:00 [ERR] Could not resolve Script Analyzer settings path due to null or empty workspaceRootPath.
+2022-09-26 09:56:18.451 -05:00 [ERR] Could not resolve relative script path
+    baseFilePath = 
+        relativePath = PSScriptAnalyzerSettings.psd1
+
+System.ArgumentNullException: Value cannot be null. (Parameter 'path1')
+   at System.IO.Path.Combine(String path1, String path2)
+   at Microsoft.PowerShell.EditorServices.Services.WorkspaceService.ResolveRelativeScriptPath(String baseFilePath, String relativePath) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\Workspace\WorkspaceService.cs:line 508
+2022-09-26 09:56:18.451 -05:00 [INF] Unable to find PSSA settings file at 'PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2022-09-26 09:56:18.451 -05:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules

@@ -1,0 +1,50 @@
+3/13/2023 9:33:17 AM [NORMAL] - Visual Studio Code v1.76.0 64-bit
+3/13/2023 9:33:17 AM [NORMAL] - PowerShell Extension v2023.2.1
+3/13/2023 9:33:19 AM [NORMAL] - pwsh.exe started.
+3/13/2023 9:33:19 AM [NORMAL] - Waiting for session file...
+3/13/2023 9:33:19 AM [NORMAL] - Language server starting --
+3/13/2023 9:33:19 AM [NORMAL] -     PowerShell executable: C:\Program Files\PowerShell\7\pwsh.exe
+3/13/2023 9:33:19 AM [NORMAL] -     PowerShell args: -NoProfile -ExecutionPolicy Bypass -Command Import-Module 'c:\Users\Zach\.vscode\extensions\ms-vscode.powershell-2023.2.1\modules\PowerShellEditorServices\PowerShellEditorServices.psd1'; Start-EditorServices -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '2023.2.1' -AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath 'c:\Users\Zach\.vscode\extensions\ms-vscode.powershell-2023.2.1\modules' -EnableConsoleRepl -StartupBanner "PowerShell Extension v2023.2.1
+Copyright (c) Microsoft Corporation.
+
+https://aka.ms/vscode-powershell
+Type 'help' to get help.
+" -LogLevel 'Normal' -LogPath 'c:\Users\Zach\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\logs\1678717996-011644ca-71d9-4b08-9559-fe97739323541678717993762\EditorServices.log' -SessionDetailsPath 'c:\Users\Zach\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\sessions\PSES-VSCode-2024-848444.json' -FeatureFlags @() 
+3/13/2023 9:33:19 AM [NORMAL] -     PowerShell Editor Services args: Import-Module 'c:\Users\Zach\.vscode\extensions\ms-vscode.powershell-2023.2.1\modules\PowerShellEditorServices\PowerShellEditorServices.psd1'; Start-EditorServices -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '2023.2.1' -AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath 'c:\Users\Zach\.vscode\extensions\ms-vscode.powershell-2023.2.1\modules' -EnableConsoleRepl -StartupBanner "PowerShell Extension v2023.2.1
+Copyright (c) Microsoft Corporation.
+
+https://aka.ms/vscode-powershell
+Type 'help' to get help.
+" -LogLevel 'Normal' -LogPath 'c:\Users\Zach\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\logs\1678717996-011644ca-71d9-4b08-9559-fe97739323541678717993762\EditorServices.log' -SessionDetailsPath 'c:\Users\Zach\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\sessions\PSES-VSCode-2024-848444.json' -FeatureFlags @() 
+3/13/2023 9:33:17 AM [NORMAL] - Operating System: Windows 64-bit
+3/13/2023 9:33:24 AM [NORMAL] - Session file found!
+3/13/2023 9:33:24 AM [NORMAL] - pwsh.exe PID: 3324
+3/13/2023 9:33:24 AM [NORMAL] - Language server started.
+3/13/2023 9:33:24 AM [NORMAL] - Connecting to language service on pipe: \\.\pipe\PSES_bdj5b1cp.1gw
+3/13/2023 9:33:24 AM [NORMAL] - Session details: {"status":"started","languageServiceTransport":"NamedPipe","languageServicePipeName":"\\\\.\\pipe\\PSES_bdj5b1cp.1gw","debugServiceTransport":"NamedPipe","debugServicePipeName":"\\\\.\\pipe\\PSES_iflehjwv.npf"}
+3/13/2023 9:33:24 AM [NORMAL] - Language service socket connected.
+3/13/2023 9:34:26 AM [NORMAL] - Shutting down language client...
+3/13/2023 9:34:26 AM [NORMAL] - Terminating PowerShell process...
+3/13/2023 9:36:18 AM [NORMAL] - Language server starting --
+3/13/2023 9:36:18 AM [NORMAL] -     PowerShell executable: C:\Program Files\PowerShell\7\pwsh.exe
+3/13/2023 9:36:18 AM [NORMAL] -     PowerShell args: -NoProfile -ExecutionPolicy Bypass -Command Import-Module 'c:\Users\Zach\.vscode\extensions\ms-vscode.powershell-2023.2.1\modules\PowerShellEditorServices\PowerShellEditorServices.psd1'; Start-EditorServices -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '2023.2.1' -AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath 'c:\Users\Zach\.vscode\extensions\ms-vscode.powershell-2023.2.1\modules' -EnableConsoleRepl -StartupBanner "PowerShell Extension v2023.2.1
+Copyright (c) Microsoft Corporation.
+
+https://aka.ms/vscode-powershell
+Type 'help' to get help.
+" -LogLevel 'Normal' -LogPath 'c:\Users\Zach\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\logs\1678717996-011644ca-71d9-4b08-9559-fe97739323541678717993762\EditorServices.log' -SessionDetailsPath 'c:\Users\Zach\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\sessions\PSES-VSCode-2024-124448.json' -FeatureFlags @() 
+3/13/2023 9:36:18 AM [NORMAL] -     PowerShell Editor Services args: Import-Module 'c:\Users\Zach\.vscode\extensions\ms-vscode.powershell-2023.2.1\modules\PowerShellEditorServices\PowerShellEditorServices.psd1'; Start-EditorServices -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '2023.2.1' -AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath 'c:\Users\Zach\.vscode\extensions\ms-vscode.powershell-2023.2.1\modules' -EnableConsoleRepl -StartupBanner "PowerShell Extension v2023.2.1
+Copyright (c) Microsoft Corporation.
+
+https://aka.ms/vscode-powershell
+Type 'help' to get help.
+" -LogLevel 'Normal' -LogPath 'c:\Users\Zach\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\logs\1678717996-011644ca-71d9-4b08-9559-fe97739323541678717993762\EditorServices.log' -SessionDetailsPath 'c:\Users\Zach\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\sessions\PSES-VSCode-2024-124448.json' -FeatureFlags @() 
+3/13/2023 9:36:18 AM [NORMAL] - pwsh.exe started.
+3/13/2023 9:36:18 AM [NORMAL] - Waiting for session file...
+3/13/2023 9:36:20 AM [NORMAL] - Session file found!
+3/13/2023 9:36:20 AM [NORMAL] - pwsh.exe PID: 2512
+3/13/2023 9:36:20 AM [NORMAL] - Language server started.
+3/13/2023 9:36:20 AM [NORMAL] - Connecting to language service on pipe: \\.\pipe\PSES_0ocrddi4.04u
+3/13/2023 9:36:20 AM [NORMAL] - Session details: {"status":"started","languageServiceTransport":"NamedPipe","languageServicePipeName":"\\\\.\\pipe\\PSES_0ocrddi4.04u","debugServiceTransport":"NamedPipe","debugServicePipeName":"\\\\.\\pipe\\PSES_2pvfd3q0.qd4"}
+3/13/2023 9:36:22 AM [NORMAL] - powershell.exe terminated or terminal UI was closed
+3/13/2023 9:36:20 AM [NORMAL] - Language service socket connected.
